@@ -15,7 +15,6 @@ We'll build a two-player CLI version of Tic Tac Toe by defining a set of methods
 When complete, the game will look something like this when played:
 
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/e4TMZ0f6qoI" frameborder="0" allowfullscreen></iframe>
-
 ### Use Your Previous Tic Tac Toe Code
 
 If you've been following along with the progression of Tic Tac Toe labs you've probably already built lots of the methods required to solve this lab. As you solve this lab, when you encounter a requirement you have previously solved, like defining the `WIN_COMBINATIONS` constant, or the `#display_board` method, you should take a second and find your old code. The ability to recognize previously solved problems and integrate a known solution is crucial to programming (and problem solving in general). Us programmers, we call that "Copy and Pasting."
